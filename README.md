@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**hegedustibor/hegedustibor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 I'm web application developer in 🇭🇺 Hungary 🇭🇺. My experiences 10+ years. I like to learn new solutions and I want to be good programmer. 
 
-Here are some ideas to get you started:
+Here are some stacks:
+- PHP
+- Laravel / Livewire
+- TailwindCSS
+- VueJs
+- GoLang
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🔭 I’m currently working on projects of clients
+- 🌱 I’m currently learning AI
+- 🔥 I want to create more open source projects
+- 📫 How to reach me: contact@hegedustibor.hu
